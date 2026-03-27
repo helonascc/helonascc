@@ -1,11 +1,5 @@
 <div align="center">
 
-```
-public class Heloisa {
-    public string Focus = "Backend & Cloud";
-}
-```
-
 # Heloísa Paiva
 ### Computer Engineering Student · Backend & Cloud
 
