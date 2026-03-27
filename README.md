@@ -40,7 +40,7 @@ My goal: land a backend internship by my second semester through consistent lear
 - 🚀 Building backend foundations through **Decola Tech · Avanade**
 - 📘 Studying **Python** and deepening **C# & OOP**
 - ☁️ Working towards **AZ-900** (Azure Fundamentals)
-- 📌 Posting weekly on [LinkedIn](https://linkedin.com/in/your-profile) about what I'm learning
+- 📌 Posting weekly on [LinkedIn](https://www.linkedin.com/in/heloisapaiiva/) about what I'm learning
 
 ---
 
