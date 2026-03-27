@@ -5,7 +5,7 @@
 
 *Building from zero to .NET — one commit at a time.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heloísa_Paiva-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heloísa_Paiva-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/heloisapaiiva/)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-In_Progress-258ffa?style=flat&logo=microsoft)](https://learn.microsoft.com)
 
 </div>
