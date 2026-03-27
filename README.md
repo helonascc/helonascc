@@ -55,7 +55,7 @@ My goal: land a backend internship by my second semester through consistent lear
 
 | Certificate | Issuer | Status |
 |---|---|---|
-| Lean Canvas | — | ✅ Completed |
+| Lean Canvas | Sebrae | ✅ Completed |
 | Fundamentos de TI: Hardware e Software | Fundação Bradesco | ✅ Completed |
 | Python do Zero ao Avançado | Udemy | 🔄 In Progress |
 | AZ-900 Azure Fundamentals | Microsoft | 🎯 Goal |
