@@ -71,6 +71,6 @@ My goal: land a backend internship by my second semester through consistent lear
 
 <div align="center">
 
-*"The best time to start was yesterday. The second best time is now."*
+*"We’re here to put a dent in the universe. Otherwise, why else even be here?"*
 
 </div>
