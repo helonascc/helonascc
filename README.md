@@ -14,7 +14,7 @@
 
 ## About me
 
-Computer Engineering student at **Universidade de Pernambuco (UPE)**, focused on building scalable backend solutions within the .NET ecosystem.
+Hi, there! I'm Heloísa Paiva, a Computer Engineering student at **Universidade de Pernambuco (UPE)**, focused on building scalable backend solutions within the .NET ecosystem.
 
 Currently in my first semester, I'm developing a solid foundation in algorithms, data structures, and object-oriented programming — while actively working on real-world projects through the **Decola Tech program at Avanade**.
 
